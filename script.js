@@ -18,7 +18,7 @@ const flowersData = [
         archivo: "Mon Laferte - Amárrame (Letra) (mp3cut.net).mp3",
         frase: "No es el día. Es que contigo cualquier fecha podría ser especial.",
         icono: "🌼",
-        imagen: "images/8.jpg"
+        imagen: "images/9.jpg"
     },
     {
         numero: 4,
@@ -39,7 +39,7 @@ const flowersData = [
         archivo: "Morat - Feo (Video Oficial) (mp3cut.net).mp3",
         frase: "Si el 21 de marzo no existiera, igual hoy te buscaría para darte algo bonito.",
         icono: "❤️",
-        imagen: "images/8.jpg"
+        imagen: "images/4.jpg"
     },
     {
         numero: 7,
