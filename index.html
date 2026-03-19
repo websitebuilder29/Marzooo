@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para mi Pulga 🌼 | 21 de Marzo</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Quicksand:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 class="title">🌻 21 DE MARZO 🌻</h1>
+            <p class="subtitle">Para ti, Dani. Para ti, Pulga.</p>
+            <div class="order-indicator">
+                <span class="indicator-text">🌸 Sigue el orden numérico 🌸</span>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <span class="progress-text" id="progressText">0/7 flores</span>
+            </div>
+        </div>
+        
+        <div class="garden" id="garden">
+            <!-- Las flores se generarán con JS -->
+        </div>
+        
+        <div class="message-card" id="messageBox">
+            <div class="message-icon" id="messageIcon">🌼</div>
+            <div class="message-content">
+                <p id="messageText"></p>
+            </div>
+        </div>
+    </div>
+    
+    <audio id="audioPlayer" style="display: none;"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
