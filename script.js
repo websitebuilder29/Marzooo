@@ -30,7 +30,7 @@ const flowersData = [
     {
         numero: 5,
         archivo: "Gerardo Ortiz Amor Confuso (Letra) (mp3cut.net).mp3",
-        frase: "Siempre estás para mí. Hoy quería que este jardín estuviera para vos.",
+        frase: "Siempre estás para mí. Hoy quería que estas flores estuvieran para vos.",
         icono: "💫",
         imagen: "images/7.jpg"
     },
