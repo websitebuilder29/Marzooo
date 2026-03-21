@@ -191,7 +191,7 @@ function reproducirFlor(flower, flowerDiv, numeroFlor) {
         // Si completó todas
         if (floresTocadas === totalFlores) {
             setTimeout(() => {
-                messageText.textContent = "🌼 Has tocado todas las flores... Ahora ya sabes lo que siento 🌼";
+                messageText.textContent = "🌼 Has tocado todas las flores... y solo quiero decirte que te aprecio bastante 🌼";
                 messageIcon.textContent = "💛";
                 messageBox.classList.add('show');
                 crearLluviaDePetales();
